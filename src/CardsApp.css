@@ -1,0 +1,22 @@
+.CardsApp {
+  margin-top: 20px;
+}
+
+.CardsApp-pile {
+  margin: 10px auto;
+  padding: 80px;
+  display: fixed;
+}
+
+.CardsApp-draw-btn {
+  padding: 10px;
+  border: 3px solid black;
+  border-radius: 8px;
+  background: linear-gradient(to bottom, #333333, #000000);
+  color: white;
+  cursor: pointer;
+}
+
+.CardsApp-draw-btn:hover {
+  background: linear-gradient(to bottom, #555555, #333333);
+}
